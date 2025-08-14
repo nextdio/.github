@@ -1,4 +1,4 @@
-## 🙋‍♀️ AI Apps for the Real World.
+# 🌎 AI Apps for the Real World.
 
 <!--
 
